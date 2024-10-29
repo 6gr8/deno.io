@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #1a1a1a;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.deno {
+    width: 120px;
+    height: auto;
+    filter: brightness(0) invert(1);
+}
+
+.action-button {
+    display: flex;
+    gap: 20px;
+}
+
+.action-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #444444;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.action-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.4);
+}
+
+.action-button:active {
+    transform: translateY(2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.sileo {
+    background-color: #3b7a6f;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.sileo:hover {
+    background-color: #122723;
+}
+
+.zebra {
+    background-color: #a3a4bd;
+}
+
+.zebra:hover {
+    background-color: #25262c;
+}
