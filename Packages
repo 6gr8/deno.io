@@ -4,11 +4,11 @@ Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/IGFormatv1.6.deb
-Size: 32768
-MD5sum: e9f2c67f21b78bb078f76a7fd741701f
-SHA1: a9f68f97f3a6e07c2852e43e1f9f333fe5b1be7d
-SHA256: 351e8982971dfcd06d7df1e734039644d483732b79a7b5f7501c56655d09a380
+Filename: ./files/IGFormatv1.7.deb
+Size: 43202 
+MD5sum: 45596a50521f362bdbfe11877b59e7dc
+SHA1: 53536761935dd913688248493dc9754ca27246c5
+SHA256: f87125b974627170067fc4f86c7e81cb4fc667b9a778b1b0f1df2f435bf79008
 Section: Tweaks
 Description: Make Instagram Better!
 Author: DeNsor
