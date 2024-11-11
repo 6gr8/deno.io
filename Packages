@@ -11,5 +11,6 @@ SHA1: 5b01855e537a45f7321744c9ac666165621767c5
 SHA256: 0c1a55766a96ee34edb23b647bf3d920feedd1529f3bb997cbff8618faaae9de
 Section: Tweaks
 Description: Make Instagram Better!
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/IGFormatLogo.png
 Author: DeNsor
 Name: IGFormat
