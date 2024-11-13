@@ -1,0 +1,16 @@
+Package: com.den.igformat
+Version: 1.13
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/IGFormatv1.13.deb
+Size: 85878
+MD5sum: 10bd2b5969b6314db0aff0e77ae390c6
+SHA1: 30226eb20db4d95f4a7e139e2adc8cede4ca36fd
+SHA256: 3f180a402ce536391d2cf716e5b93086b8e26920e16bc54ce48c61e7c34c3243
+Section: Tweaks
+Description: Make Instagram Better!
+Icon: ./Icon/IGFormatDark.png
+Author: DeNsor
+Name: IGFormat
