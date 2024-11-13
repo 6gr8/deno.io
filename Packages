@@ -11,6 +11,6 @@ SHA1: 30226eb20db4d95f4a7e139e2adc8cede4ca36fd
 SHA256: 3f180a402ce536391d2cf716e5b93086b8e26920e16bc54ce48c61e7c34c3243
 Section: Tweaks
 Description: Make Instagram Better!
-Icon: ./Icon/IGFormatDark.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 Author: DeNsor
 Name: IGFormat
