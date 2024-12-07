@@ -1,0 +1,32 @@
+Package: com.den.igformat
+Version: 1.21
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/IGFormatv1.21.deb
+Size: 152130 
+MD5sum: d7630036397a1e9fe1aa29d4a2915ee5
+SHA1: 6f7bf03c2636c1ca99ac0fee397185fbd1448714
+SHA256: 8354ea8e112280df335911cfc279bbabc9bb6cf7ab091832041a8023b1426a9f
+Section: Tweaks
+Description: Make Instagram Better!
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Author: DeNsor
+Name: IGFormat
+
+Package: com.den.vibetok
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/VibeTokv1.1.deb
+Size: 78748
+MD5sum: 4980e4f59616c6ec824d45366278d99b
+SHA1: a082220b13f34c7cded8bf9a33112058b1c2df3f
+SHA256: 08ab1dee32c7a77583a26049c8c4a101cd893e3857117535c824c7c8e348fd01
+Section: Tweaks
+Description: Make TikTok Better!
+Author: DeNsor
+Name: VibeTok
