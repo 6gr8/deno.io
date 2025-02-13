@@ -1,0 +1,84 @@
+Package: com.den.igformat
+Version: 1.71
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/IGFormatv1.71.deb
+Size: 187434
+MD5sum: ec3f6ee8beaf25cbbde6a1e8d96118ec
+SHA1: 558b381ee1a440a3d028ad9df404ff255184efae
+SHA256: 1cf0582084105a852591fe9d164607878a2c9483163dd5f1ad5dc82e37fa88f8
+Section: Tweaks
+Description: Make Instagram Better!
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Author: DeNsor
+Name: IGFormat
+
+Package: com.den.vibetok
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/VibeTokv1.2.deb
+Size: 91404
+MD5sum: a45071f6a183005b19af26022cde8519
+SHA1: bddc5ba1fc667d4cc68fc3d43373979c34853561
+SHA256: 604388779ab1b4c599fb05c7be298eab17d8cff5a742a67317b51fbb3ef87045
+Section: Tweaks
+Description: Make TikTok Better!
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
+Author: DeNsor
+Name: VibeTok
+
+Package: com.den.twigalaxy
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/TWIGalaxy1.1.deb
+Size: 60582
+MD5sum: b5d0cade9a51db104beba161b964071c
+SHA1: 5fc8b99e4dc681b18214f2265a84ac43f4a7da50
+SHA256: 40a5c9105d474adc2c31b1ced8d5a1ec9928ebf25e1accc607aa545d77e14140
+Section: Tweaks
+Description: Make Twitter Better!
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+Author: DeNsor
+Name: TWIGalaxy
+
+Package: com.den.vsplus
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/VSPlus.deb
+Size: 12122
+MD5sum: a3ee214e16a8a91025ee10908a8a817e
+SHA1: f7a3a0bca31b2df9924e9e55b9d00830a64ccf2b
+SHA256: ccef24f0d2e1e064c3f9d5cebcd242e5aafcabffb453c4fbac3451cf9139ee4b
+Section: Tweaks
+Description: Make VideoStar Better!
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vs.json
+Author: DeNsor
+Name: VSPlus
+
+Package: com.den.locktouchx
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/LockTouchX.deb
+Size: 11372
+MD5sum: 9d9cf422cd80e878601bb5c969bd6e13
+SHA1: a21998b839135ebddd0729588ffd32a469fa07f6
+SHA256: 7699c76178db54bf3e990734caeeb30f67015d06c008cefb9e7c44e2ea2af87c
+Section: Tweaks
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/lock.json
+Author: DeNsor
+Name: LockTouchX
