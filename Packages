@@ -1,14 +1,14 @@
 Package: com.den.igformat
-Version: 1.83
+Version: 1.84
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/IGFormatV1.83.deb
-Size: 255102
-MD5sum: f56f7f410cd9f1dd834faf668a19d72a
-SHA1: b3e7791427f1838307a054af6bec96d89fe0e7f2
-SHA256: 18c2d2931d2d3f9f3f3d032f5f6c6c1e005bc6da9ea37ca14fe87a524817c581
+Filename: ./files/IGFormatV1.84.deb
+Size: 248494
+MD5sum: e0f4e3526b6dbd417a36f3ff4b335c13
+SHA1: 3e369d085c6fd25c2625679cb9b4be5fed64e006
+SHA256: ee9abc28eb3031038a9c1992df93193b99a54e15baa56b68facee67c3c4fafa7
 Section: Tweaks
 Description: Make Instagram Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
