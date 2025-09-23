@@ -15,6 +15,22 @@ SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 Author: DeNsor
 Name: IGFormat
 
+Package: com.den.auto
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./files/AutoCacheV1.0.deb
+Size: 26156
+MD5sum: 6a4dc7412488b5c7520b97d3387b1e60
+SHA1: 2ec16f082c88a18ff5372fad8a61d660e5337043
+SHA256: f322937312552914e742916e0a214810a945ea51a234e460ab73b7edef5bc33a
+Section: Tweaks
+Description: Automatically clears app caches with a countdown timer
+Author: DeNsor
+Name: AutoCache
+
 Package: com.den.ighdmedia
 Version: 1.1
 Architecture: iphoneos-arm64
