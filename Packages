@@ -66,16 +66,16 @@ Author: DeNsor
 Name: VibeTok
 
 Package: com.den.twigalaxy
-Version: 1.12
+Version: 1.13
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/TWIGalaxyV1.12.deb
-Size: 183290
-MD5sum: 98b5f0a447e669cd6c2d58e2cd7ad500
-SHA1: 1094276f4e9c6f23513f9e9378c5d66bb9655773
-SHA256: 7be86d1e1392a5f51d4d9d5ccdf6ada7017926f5a1a51555f8501c57419423d7
+Filename: ./files/TWIGalaxyV1.13.deb
+Size: 186340
+MD5sum: 21a713f9713be92f84dc6dce0c75adbc
+SHA1: 0b6fbe3b03d4adef7ec3dda635b33b56c6571adc
+SHA256: cf0f7cd570256c450db65f946c48992bbaecfff255fc8896de365e1700e47207
 Section: Tweaks
 Description: Make Twitter Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
