@@ -49,16 +49,16 @@ Name: IGHDMedia
 
 
 Package: com.den.vibett
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/VibeTokV1.67.deb
-Size: 68288
-MD5sum: 9b8f91ece83394c4f7dc95b6fbc1bdd1
-SHA1: 5d736083c854d3b0c593a9ef3ea6297f39a63943
-SHA256: 68c095e36c0460470ef2373a9be6d1a9737bfd1f853f0ee0ac6a3cbcd865a4e6
+Filename: ./files/VibeTokV1.68.deb
+Size: 92950
+MD5sum: 962ab16c9d574878875c76a413247306
+SHA1: a40f2e124db885cd4b706d63c91bfa52f48cdc7a
+SHA256: 14680a500708f9880daea4942822b57aad2faecde1c52f72583fe3d825d9cbd7
 Section: Tweaks
 Description: Make TikTok Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
