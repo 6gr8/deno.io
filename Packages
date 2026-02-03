@@ -40,8 +40,8 @@ Depends: mobilesubstrate
 Filename: ./files/IGHDMediaV1.1.deb
 Size: 7822704
 MD5sum: e93a5dc6896758419490f8c94861040a
-SHA1: 83cd31d16c94503ff19c564cc7a8d07d6f80b29f
-SHA256: 7245ef94950daa1227aa6f99fd148eaf5e7b32a77f73f137161a23a2709a77f9
+SHA1: d5a0c849c984ba181046cc460ef24900a8b56999
+SHA256: ea8530034bcadefee50e9d3a143376ec8310988f469e8b47d39ba850874661a9
 Section: Tweaks
 Description: Download Instagram Reels and Stories in 1080p FHD quality
 Author: DeNsor
@@ -49,14 +49,14 @@ Name: IGHDMedia
 
 
 Package: com.den.vibett
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/VibeTokV1.69.deb
-Size: 104676
-MD5sum: 08b8d84a114193e6d2b6c0ab49f7178f
+Filename: ./files/VibeTokV1.70.deb
+Size: 110758
+MD5sum: 5152653b5663c4ba771d12dc8b16bc4a
 SHA1: 10c3ed3a0ab9df610d99539c330d0aca8d111f7a
 SHA256: 97922964126f54ef7a75e3b61cd8c6c8de90709392b4362a3929f8cf56b7e4b3
 Section: Tweaks
