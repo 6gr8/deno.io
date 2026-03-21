@@ -148,7 +148,7 @@ Description: iCatch detects every .deb file you download from Sileo & Zebra
 Author: DeNsor
 Name: iCatch
 
-Package: com.den.igformat
+Package: com.den.igformat1
 Version: 1.96
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
