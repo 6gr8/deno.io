@@ -5,10 +5,10 @@ Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./files/IGFormatV1.97.deb
-Size: 320432
-MD5sum: 6b3bb2d3d938327c8caa6a01fc070d49
-SHA1: e31f64a3c84baa4af2b582da1b36da4f7e2c90f7
-SHA256: d57a66f959926662c9c703028c6edca5c770ee1ebe23f924d2c10949394d6414
+Size: 321122
+MD5sum: 3ab1c95c95f817db7239b7de2e31cf58
+SHA1: e716a6efa47074faa68843590e23d03b675e6f8a
+SHA256: 68091a020f1801edeafc9b62a61a23cdfc9b92b6efa6a077f2775dfd10932cd9
 Section: Tweaks
 Description: Make Instagram Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
