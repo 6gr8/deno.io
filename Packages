@@ -1,14 +1,14 @@
 Package: com.den.igformat
-Version: 1.97
+Version: 1.98
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/IGFormatV1.97.deb
-Size: 321122
-MD5sum: 3ab1c95c95f817db7239b7de2e31cf58
-SHA1: e716a6efa47074faa68843590e23d03b675e6f8a
-SHA256: 68091a020f1801edeafc9b62a61a23cdfc9b92b6efa6a077f2775dfd10932cd9
+Filename: ./files/IGFormatV1.98.deb
+Size: 333982
+MD5sum: de304d5399a7781f48d2e2bfea7b42f9
+SHA1: b1195453126569eeb85e4e571da4f264a7a040d0
+SHA256: 88ebf7f79c7ab06a8271668e5ed97687299e6b8ad54e8b14e3acafe360a2716c
 Section: Tweaks
 Description: Make Instagram Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
@@ -149,16 +149,16 @@ Author: DeNsor
 Name: iCatch
 
 Package: com.den.igformat1
-Version: 1.97
+Version: 1.98
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/IGFormatV1.96v10.deb
-Size: 320010
-MD5sum: da3f46a8264161baedc3aa9f27ca80c9
-SHA1: 9e61f8035a23f09e6994b4ffb55ba49159acdda3
-SHA256: 3351f8beaba1c8dd349ae8393740ec7d338b2f0985e2f53d7c61e1c59f582f78
+Filename: ./files/IGFormatV1.98v10.deb
+Size: 327166
+MD5sum: 23899872a027f33609165c919a78915b
+SHA1: 5b241b4d6ec0584498f1c9b232aeeb4059355b19
+SHA256: 9393079ccb46fb7cfebb3f325a126646d42d5f60bb718bb7fcc19638dc359f57
 Section: Tweaks
 Description: Make Instagram Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
