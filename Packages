@@ -16,34 +16,17 @@ Author: DeNsor
 Name: IGFormat
 
 
-Package: com.den.igformat
-Version: 1.99
-Architecture: iphoneos-arm64
-Maintainer: DeNsor
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./files/IGFormatV1.99.deb
-Size: 441780
-MD5sum: ddea8a6cea69a86860ba767fdca8d5b3
-SHA1: 8bab72eb28869382e0658e02f53fb8d101e9d108
-SHA256: f605e085d77671f7356c54085032439afeaccfee8968d2d264195cba30b18d49
-Section: Tweaks
-Description: Make Instagram Better!
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-Author: DeNsor
-Name: IGFormat
-
 Package: com.den.msgplusx
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/MSGPlusXV1.0.deb
-Size: 35532
-MD5sum: fda824cd88d27f180edfab0863cf26fb
-SHA1: 4399c395089f39ca9f9acdc1abf3c04c3670f8f9
-SHA256: 37c83054bf7e429e8a255858c8af82d0c1f1f2c3b7bf9034591a4e511117694e
+Filename: ./files/MSGPlusX.deb
+Size: 35188
+MD5sum: 6d1cc02881e0d5055a63e0e1456a26ae
+SHA1: ba222d5c30b7a59065f54a50685ee1a59e6d9885
+SHA256: df911471c6c4aa37008bf81044b64c25d23b94b821fa9a11a10a378059c2f269
 Section: Tweaks
 Description: Make messenger better!
 Author: DeNsor
