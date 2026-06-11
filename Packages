@@ -17,16 +17,16 @@ Name: IGFormat
 
 
 Package: com.den.msgplusx
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/MSGPlusX.deb
-Size: 35188
-MD5sum: 6d1cc02881e0d5055a63e0e1456a26ae
-SHA1: ba222d5c30b7a59065f54a50685ee1a59e6d9885
-SHA256: df911471c6c4aa37008bf81044b64c25d23b94b821fa9a11a10a378059c2f269
+Filename: ./files/MSGPlusXv1.1.deb
+Size: 63518
+MD5sum: 439c4b31e383a36deae1de18d0ea6171
+SHA1: f234a0d69b5023988c6a347ff6d7ba91f68c1fe8
+SHA256: 48a9c1b93fdbd23fde27f552391ee3b8906958351ad77f0dbe70b63342a48a7b
 Section: Tweaks
 Description: Make messenger better!
 Author: DeNsor
