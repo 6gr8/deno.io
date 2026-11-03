@@ -1,14 +1,14 @@
 Package: com.den.igformat
-Version: 2.6.0
+Version: 2.7.0
 Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/IGFormatV2.6.0.deb
-Size: 605680
-MD5sum: 335b226c5e162a9c26ec59e0f12f3a1a
-SHA1: 48e27c1ad7bff46de1ef19d7063020a71600aee5
-SHA256: 3f3e624cba1294bb306d8ddff6b9666ee1efc631e186aeaea4e42418beb88287
+Filename: ./files/IGFormatV2.7.0.deb
+Size: 616310
+MD5sum: 5d353efb6959d9d7bce5196eb67f0ca3
+SHA1: 557fe817a0c162a28166e94cd6c2efd96abed644
+SHA256: fc42bbd33c3568b62fabff47355520f5f1cd47b22f127bf96463cb5190d6b151
 Section: Tweaks
 Description: Make Instagram Better!
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
@@ -54,7 +54,7 @@ Architecture: iphoneos-arm64
 Maintainer: DeNsor
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./files/VibeTokV1.76.deb
+Filename: ./files/VibeTokV1.77.deb
 Size: 258790
 MD5sum: 64540b0a5ee0b2c91654c1b850a3487d
 SHA1: faf0cdf2b2dfbb9d9b78d2a72314275ab0c283dd
